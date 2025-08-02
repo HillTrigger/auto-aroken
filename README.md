@@ -1,2 +1,2 @@
-Site: https://auto-aroken.hilltrigger.ru/
+Site: ~~https://auto-aroken.hilltrigger.ru/~~
 Макет: https://auto-aroken.hilltrigger.ru/auto.fig
